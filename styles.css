@@ -1,0 +1,13 @@
+#flex-box {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    flex-basis: 400px;
+}
+
+li {
+    list-style: none;
+    border: 2px solid green;
+    color: orange;
+    padding: 5px;
+}
